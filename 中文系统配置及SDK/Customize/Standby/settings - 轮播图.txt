@@ -1,0 +1,2 @@
+Picture
+请将轮播图片放到Pictures文件夹下面。

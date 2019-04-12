@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">医院介绍</string>
+
+    <string name="voice_back">后退</string>
+    <string name="voice_return">返回</string>
+
+    <string name="tips_main">可以对我说：“返回”、“关闭”和对应的名字</string>
+    <string name="tips_sort_list">可以对我说：“返回”、“关闭”和对应的名字</string>
+    <string name="tips_detail">可以对我说：“返回”、“关闭”、“上一个”、“下一个”、“停止”</string>
+</resources>

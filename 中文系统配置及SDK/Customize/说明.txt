@@ -1,0 +1,19 @@
+\Customize 为用户自定义资源文件夹。请整个拷贝到机器人SD卡根目录。
+\Customize\Pictures 用户自定义问答的图片
+\Customize\Videos 用户自定义问答的视频
+\Customize\Music 用户自定义问答的音频。
+
+\Customize\mp3文件夹，用于存放用户自己的本地歌曲。播放歌曲时，随机播放。
+
+\Customize\Standby为待机宣教的资源和配置。
+\Customize\CompanyInformation 为医院介绍APP（公司介绍）例子的资源。
+
+home.txt 用于定制唤醒词（唤醒模块需刷对应的固件）、以及提示用户问答方式。
+myapp.txt用于定制出现在语音对话桌面上的app，以及对应app的启动词
+
+以上配置可根据自己需要进行修改。
+
+
+
+
+

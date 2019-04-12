@@ -1,0 +1,7 @@
+待机宣教有两种形式。1轮播图+TTS语音播报，2视频。
+配置settings.txt文件，以上2种选1种。
+可用例子文件修改名称和内容进行配置。名称必须为settings.txt。内容第1行为类型，Video或Picture。
+待机宣教为视频时，settings.txt 第1行为Video，第2行，为视频文件名称包含后缀名。视频文件放到Standby目录下。如果视频文件太大内部SD放不下，可以放在U盘根目录下。
+
+待机宣教为轮播图频时，settings.txt 第1行为Picture，轮播图片放到Pictures，可以包含多张图片。
+TTS.txt是轮播图时，需要语音播报的文本。

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/ripple_color">
+
+    <!--透明背景水波纹
+    android:id=”@android:id/mask”会让系统并不会真的绘制,并告知波纹的绘制边界-->
+    <item android:id="@android:id/mask" android:drawable="@color/white" />
+
+</ripple>

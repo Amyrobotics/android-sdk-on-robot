@@ -1,0 +1,5 @@
+#readme£ºline 2£¬display when amy wakeup. line 3~5: display on Q&A screen. 
+hello, amy
+What's the weather today
+Who are you
+one plus one

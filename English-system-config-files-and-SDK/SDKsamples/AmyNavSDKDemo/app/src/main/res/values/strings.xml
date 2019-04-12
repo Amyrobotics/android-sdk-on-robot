@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">AmySDKDemo</string>
+
+    <string name="btn_refreshMapList">刷新地图列表</string>
+    <string name="btn_startNav">开启导航</string>
+    <string name="btn_navStatus">导航状态</string>
+    <string name="btn_stopNav">停止导航</string>
+    <string name="btn_robotControl">机器人控制</string>
+    <string name="btn_moveForward">往前运动</string>
+    <string name="btn_turnLeft">向左转</string>
+    <string name="btn_turnRight">向右转</string>
+    <string name="btn_moveBack">向后运动</string>
+    <string name="btn_moveStop">停止移动</string>
+    <string name="btn_turnStop">停止转向</string>
+    <string name="btn_startDance">开始跳舞</string>
+    <string name="btn_stopDance">停止跳舞</string>
+    <string name="btn_startFollow">开始跟随</string>
+    <string name="btn_stopFollow">停止跟随</string>
+    <string name="btn_stopAll">停止全部</string>
+    <string name="btn_headUp">头部向上</string>
+    <string name="btn_headDown">头部向下</string>
+    <string name="btn_headLeft">头部向左</string>
+    <string name="btn_headRight">头部向右</string>
+    <string name="btn_headReset">头部重置</string>
+    <string name="btn_headUpDown">头部上下运动</string>
+    <string name="btn_headLeftRight">头部左右运动</string>
+    <string name="btn_lightNormal">灯环正常</string>
+    <string name="btn_lightTalk">说话时灯环</string>
+    <string name="btn_lightThink">思考时灯环</string>
+    <string name="btn_lightListen">监听时灯环</string>
+    <string name="btn_lightSing">唱歌时灯环</string>
+    <string name="btn_robotAction">机器人Action</string>
+    <string name="btn_playMusic">播放音频</string>
+    <string name="btn_playVideo">播放视频</string>
+    <string name="btn_speak">语音播报</string>
+    <string name="btn_speechRecogintion">语音识别</string>
+    <string name="btn_showPicture">图片轮播</string>
+    <string name="btn_stopMusic">停止播放</string>
+    <string name="btn_pauseMusic">暂停播放</string>
+    <string name="btn_resumeMusic">继续播放</string>
+    <string name="btn_speakStart">语音播报</string>
+    <string name="btn_speakStop">停止语音播报</string>
+    <string name="btn_speakPause">暂停语音播报</string>
+    <string name="btn_speakResume">继续语音播报</string>
+    <string name="btn_startRecogintion">开始语音识别</string>
+    <string name="btn_stopRecogintion">结束语音识别</string>
+    <string name="btn_getMarkList">获取标记点列表</string>
+    <string name="btn_startMarkNav">开启导航</string>
+    <string name="btn_cancelMarkNav">取消导航</string>
+    <string name="btn_navToPoint">导航到标记点</string>
+    <string name="btn_sure">确定</string>
+
+
+    <string name="toast_loadMapSuccess">地图获取成功</string>
+    <string name="toast_loadMapFail">地图获取失败</string>
+    <string name="toast_navStartSuccess">开启导航成功</string>
+    <string name="toast_navStartFail">开启导航失败</string>
+    <string name="toast_navStopSuccess">停止导航成功</string>
+    <string name="toast_navStopFail">停止导航失败</string>
+    <string name="toast_navCancelSuccess">取消导航成功</string>
+    <string name="toast_navCancelFail">取消导航失败</string>
+    <string name="toast_navTo">正在导航到</string>
+    <string name="toast_navToSuccess">导航成功，已经到达</string>
+    <string name="toast_navToFail">导航失败，无法到达</string>
+    <string name="toast_mapLoading">地图加载中</string>
+    <string name="toast_startNav">正在开启导航</string>
+    <string name="toast_loadMarkSuccess">标记点列表获取成功</string>
+    <string name="toast_loadMarkFail">标记点列表获取失败</string>
+    <string name="toast_pleStartNav">请先开启导航模式</string>
+
+    <string name="title_robotMotion">机器人运动     (注意：请打开急停开关)</string>
+    <string name="title_robotDance">机器人跳舞</string>
+    <string name="title_robotFollow">机器人跟随</string>
+    <string name="title_robotStopAll">机器人停止动作</string>
+    <string name="title_headControl">机器人头部控制</string>
+    <string name="title_robotLight">灯环控制</string>
+    <string name="title_playMusic">播放音频</string>
+    <string name="title_speack">语音播报</string>
+    <string name="title_speackWords">播报内容</string>
+    <string name="title_speechRecoginze">语音识别</string>
+    <string name="title_speechWords">识别内容</string>
+    <string name="title_mapDefault">默认地图</string>
+    <string name="title_mapCoordinate">地图坐标</string>
+    <string name="title_mapRealCoordinate">实际坐标</string>
+    <string name="title_angle">方位角度</string>
+    <string name="title_alias">别名</string>
+    <string name="title_desc">地点描述</string>
+    <string name="title_isStartPoint">起始点</string>
+    <string name="title_sure">是</string>
+    <string name="title_false">否</string>
+    <string name="title_mapNav">地图导航</string>
+    <string name="title_warning">提醒</string>
+
+    <string name="desc_robotStopAll">停止导航、唱歌、跳舞等全部任务</string>
+    <string name="desc_recoFail">识别失败</string>
+
+</resources>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tool="http://schemas.android.com/tools"
+    android:id="@+id/rl_sort_list_item"
+    android:layout_width="346dp"
+    android:layout_height="247dp"
+    android:background="@drawable/shape_circular_bead_white">
+
+    <ImageView
+        android:id="@+id/iv_profile"
+        android:layout_width="146dp"
+        android:layout_height="126dp"
+        android:layout_marginLeft="30dp"
+        android:background="@drawable/shape_profile_back" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_alignParentRight="true"
+        android:gravity="right"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxLines="1"
+            android:textColor="@color/font_title_blue"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            tool:text="朱满连" />
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:maxEms="5"
+            android:textColor="@color/font_title_gray"
+            android:textSize="22sp"
+            tool:text="主任医师" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_num"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/tv_info"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="30dp"
+        android:maxLines="1"
+        android:textColor="@color/font_title_gray"
+        android:textSize="20sp"
+        tool:text="0578-2096011" />
+
+    <TextView
+        android:id="@+id/tv_info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:maxLines="1"
+        android:textColor="@color/font_title_gray"
+        android:textSize="20sp"
+        tool:text="老年痴呆科（十一病区）主任" />
+
+</RelativeLayout>

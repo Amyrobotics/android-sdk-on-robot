@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">20dp</dimen>
+    <dimen name="paddingLeft">10dp</dimen>
+
+    <dimen name="title_textsize">18sp</dimen>
+    <dimen name="title_mapTitle">22sp</dimen>
+</resources>

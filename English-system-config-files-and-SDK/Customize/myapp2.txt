@@ -1,0 +1,2 @@
+#1 Tips£ºApp icon will be shown on home screen. line 2~5£¬e.g. "Checkin" and "checkin" are wakeup words, "com.amyrobotics.checkin" is the App package name.
+Translation#com.amy.transn.demo
